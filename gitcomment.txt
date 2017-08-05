@@ -1,0 +1,37 @@
+git config  --global      user.name
+git config  --global      user.email
+
+
+
+mkdir     创建文件夹
+
+cd 进入文件夹
+
+pwd 查看当前文件路径
+
+git init  创建新仓库
+
+ls -ah 查看隐藏文件
+
+git add 把文件添加到仓库
+
+git commit 把文件提交到仓库
+
+git status 查看仓库当前的状态
+
+git diff 查看不同或者是修改了什么
+
+git log 查看最近到最远的提交日志
+
+--pretty=oneline   此参数可以看到是一行显示
+
+git reset --hard HEAD^   回退到上一版本
+
+
+cat 查看文件内容
+
+git reflog 查看每一次命令
+
+git checkout 
+
+
